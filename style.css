@@ -1,0 +1,16 @@
+body {
+    color: black;
+    background-color: rgb(94, 241, 119);
+  }
+  
+  h1 {
+    position: flex;
+    text-align: center;
+    font-style: normal;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  
+  footer {
+    text-align: center;
+  }
